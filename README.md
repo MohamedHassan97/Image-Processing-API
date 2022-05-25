@@ -25,4 +25,4 @@ node dist/index.js
 
 
 ##### Note :
-if the image with same size requested again it will not processed again but you will find it already cached 
+if the image with same size requested again it will not processed again but you will find it already cached .
