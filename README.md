@@ -1,17 +1,17 @@
 # Image-Processing-API
 
-## to run the code you should follow the following steps
+## To run the code you should follow the following steps
 
-### to compile Typescript files to Javascript files 
+### compile Typescript files to Javascript files 
 ```sh
 npm run build
 ```
 
-### to run tests
+### run tests
 ```sh
 npm run jasmine
 ```
-## to run the server 
+## run the server 
 ```sh
 node dist/index.js
 ```
@@ -24,5 +24,5 @@ node dist/index.js
 | http://localhost:3000/images/encenadaport?width=200&height=200  | selecting one of the images with editing the width& height  |
 
 
-##### Note 
+##### Note :
 if the image with same size requested again it will not processed again but you will find it already cached 
