@@ -11,7 +11,7 @@ npm run build
 ```sh
 npm run jasmine
 ```
-## run the server 
+### run the server 
 ```sh
 node dist/index.js
 ```
